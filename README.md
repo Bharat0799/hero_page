@@ -3,7 +3,7 @@ A visually immersive scroll-based hero section built using HTML, CSS, JavaScript
 This project delivers a cinematic UI experience where users transition from clouds → stats → nature → final brand reveal.
 
 🚀 Live Demo
-👉 (Add your GitHub Pages / deployment link here)
+👉 https://bharat0799.github.io/hero_page/
 
 📌 Features
 ☁️ Cloud Intro Section
